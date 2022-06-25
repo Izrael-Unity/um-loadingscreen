@@ -1,10 +1,8 @@
 ULTIMA UPDATE - Unity RP
 
-- Carros modificados na LSPD.
-- Preços das casas modificadas e novas adicionadas.
-- /me lançado como comando quando revistam.
-- Bloqueio ao roubar as pessoas mortas.
-- Fix as roupas da LSPD e a blindagem.
-- Removido IP do loadscreen.
-- Problema do cofre da bennys.
-- Fix a save do Twitter e dos Anúncios telemóvel.
+- Mudança menu Loja Vip com opções novas (Modif).
+- Mudança do Mumble-Voip para o PMA-Voice (Modif).
+- Sistema de anti-limbo (Add).
+- Ponto de TP para sair da sala de escolha de carros (Fix).
+- Blip da caça atualizado (Fix).
+- Sistema que estraga o telemóvel e a radio na água sem por num saco (Add).
